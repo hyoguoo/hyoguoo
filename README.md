@@ -1,6 +1,4 @@
-# Hi there, I'm Hyoguoo 👋
-
-### Backend Developer using Java & Spring | And also a big fan of Platypus Ogu
+### Backend Engineer using Java & Spring | And also a big fan of Platypus Ogu
 
 자세한 정보는  **[About Me](https://hyoguoo.gitbook.io/about)** 에서 확인할 수 있습니다.
 
@@ -8,7 +6,7 @@
 
 ### 🛠️ Skills
 
-`Java`, `TypeScript`, `Spring Boot`, `JPA`, `Querydsl`, `MySQL`, `Redis`, `JUnit`
+Java, TypeScript, Spring Boot, JPA, Querydsl, MySQL, Redis, JUnit
 
 ### ✍️ Blogs I Run
 
